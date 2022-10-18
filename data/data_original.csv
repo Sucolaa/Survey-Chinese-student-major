@@ -1,0 +1,161 @@
+Gender,Age,Status,Degree,Sponsor_Parents,Sponsor_GovernmentCorporation,Sponsor_Personal,Studied_abroad,Marital_status,Job,Major,Factor_Salary,Factor_EmploymentRate,Factor_SelfInterest,Factor_ChineseNumber,Factor_Parents,Factor_Friends,Important_Factor
+Female,22,Graduated,Master,Parents,Government or Corporation,Personal,No,Unmarried,No,Art,4,5,8,5,2,2,Self- interest
+Male,25,Enrolled,Master,Parents,,,Yes,Unmarried,No,Engineering,8,9,9,7,5,5,Employment rate
+Female,21,Enrolled,Master,Parents,,,No,Unmarried,No,Humanities,7,7,9,3,7,6,Self- interest
+Female,24,Not enrolled,Master,,,Personal,No,Unmarried,Yes,Public Affairs,10,10,10,10,10,10,The advice from friends
+Female,22,Graduated,Master,Parents,,,No,Unmarried,Yes,Art,6,4,7,5,4,5,Self- interest
+Male,20,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Others,10,5,10,1,5,0,Salary
+Female,24,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Others,0,0,10,0,0,0,Self- interest
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Business,7,7,5,8,8,7,Expectation of parents
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Business,5,3,3,8,5,8,Salary
+Male,20,Enrolled,Master,Parents,,,Yes,Unmarried,No,Others,10,10,10,5,5,5,Self- interest
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Others,8,6,9,3,3,7,Self- interest
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Others,8,7,10,8,8,7,Self- interest
+Male,21,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Business,10,9,10,8,8,5,Salary
+Male,21,Enrolled,Master,Parents,,,Yes,Unmarried,Yes,Business,6,6,9,7,7,6,Self- interest
+Female,21,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,9,8,5,5,7,4,Salary
+Male,20,Enrolled,Bachelor,Parents,,Personal,Yes,Unmarried,No,Business,7,9,7,7,8,9,Salary
+Male,21,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Business,10,10,4,0,4,4,Self- interest
+Male,21,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Others,10,10,10,5,7,8,Self- interest
+Female,21,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,10,9,9,5,5,3,Salary
+Male,23,Enrolled,Bachelor,Parents,,,No,Unmarried,Yes,Others,10,7,10,6,3,4,Salary
+Male,23,Graduated,Master,,,Personal,Yes,Unmarried,Yes,Business,9,9,6,3,5,5,Salary
+Male,20,Enrolled,Master,Parents,,Personal,Yes,Unmarried,Yes,Others,6,6,9,8,5,3,Self- interest
+Male,21,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Business,7,10,5,6,0,0,Salary
+Female,21,Enrolled,Master,Parents,,,Yes,Divorced,No,Business,8,8,7,6,8,8,Salary
+Female,19,Enrolled,Master,Parents,,,Yes,Unmarried,Yes,Business,10,10,8,7,6,6,Employment rate
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Law,8,8,8,0,0,5,Salary
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Business,8,7,7,7,8,8,Salary
+Female,21,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,8,9,5,7,9,8,Salary
+Male,21,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Business,7,8,7,8,7,8,Self- interest
+Male,20,Enrolled,Master,Parents,,,Yes,Unmarried,Yes,Business,8,7,7,6,6,7,Salary
+Female,21,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,9,9,9,5,7,6,Expectation of parents
+Male,23,Graduated,Master,Parents,,,Yes,Unmarried,No,Computer Science,6,7,7,5,5,5,Employment rate
+Male,20,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,8,7,8,6,7,5,Salary
+Male,23,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,9,8,8,0,5,5,Salary
+Male,20,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Business,7,8,6,4,5,4,Employment rate
+Female,21,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Business,7,9,5,6,3,5,Employment rate
+Female,25,Graduated,Master,Parents,,,No,Unmarried,Yes,Education,7,8,9,8,6,5,Self- interest
+Female,19,Enrolled,Master,Parents,,,No,Unmarried,Yes,Business,8,8,10,2,5,0,Self- interest
+Male,19,Enrolled,Master,,,Personal,Yes,Unmarried,No,Engineering,8,5,8,5,7,1,Self- interest
+Female,23,Enrolled,Bachelor,,,Personal,Yes,Unmarried,Yes,Others,10,7,10,0,5,8,Self- interest
+Male,21,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,7,7,7,7,7,7,Expectation of parents
+Female,19,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Engineering,10,6,10,6,3,2,Salary
+Male,20,Enrolled,Master,Parents,,,Yes,Unmarried,No,Others,10,10,10,4,4,8,Self- interest
+Male,23,Graduated,PHD,Parents,,,Yes,Unmarried,No,Business,10,10,8,10,8,8,Salary
+Female,22,Enrolled,Bachelor,,,Personal,No,Unmarried,No,Business,7,8,8,7,5,3,Self- interest
+Male,20,Enrolled,Bachelor,,,Personal,Yes,Unmarried,No,Business,8,8,8,8,8,8,Self- interest
+Male,19,Enrolled,Bachelor,Parents,,,No,Unmarried,Yes,Others,9,6,9,7,6,6,Self- interest
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Business,8,9,9,6,7,6,Employment rate
+Male,20,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Art,5,6,10,7,6,8,Self- interest
+Female,18,Enrolled,Master,,,Personal,No,Unmarried,No,Education,8,9,9,8,8,6,Self- interest
+Male,19,Enrolled,Master,Parents,,,No,Unmarried,No,Computer Science,7,6,10,8,2,5,Salary
+Female,19,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Public Affairs,10,10,10,10,10,10,Salary
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Others,2,2,9,6,0,0,Self- interest
+Male,20,Enrolled,Master,Parents,,,No,Unmarried,Yes,Others,5,5,7,6,0,0,Self- interest
+Female,21,Enrolled,Master,Parents,,,Yes,Unmarried,Yes,Business,7,4,5,5,3,3,Self- interest
+Female,19,Enrolled,PHD,Parents,,,Yes,Unmarried,Yes,Law,10,8,8,8,9,8,Self- interest
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Education,7,5,9,8,3,3,Self- interest
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Others,1,1,10,1,1,3,Self- interest
+Female,20,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,9,7,9,8,8,9,Self- interest
+Female,21,Enrolled,Bachelor,,,Personal,Yes,Unmarried,Yes,Business,0,0,10,0,0,0,Self- interest
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Business,8,9,5,7,5,4,Salary
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Public Affairs,7,5,7,5,5,3,Self- interest
+Female,20,Enrolled,Bachelor,,,Personal,Yes,Unmarried,Yes,Business,0,0,0,0,0,0,Salary
+Female,27,Graduated,PHD,Parents,,,No,Unmarried,No,Others,7,7,8,6,7,8,Salary
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Business,10,3,10,5,10,3,Self- interest
+Male,21,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Public Affairs,3,0,10,0,7,9,Self- interest
+Male,21,Enrolled,Master,Parents,,,No,Unmarried,Yes,Art,8,10,10,5,5,3,Self- interest
+Male,20,Enrolled,Bachelor,,,Personal,Yes,Unmarried,No,Others,9,5,10,8,3,0,Self- interest
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Computer Science,7,8,9,5,6,7,Employment rate
+Male,21,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Business,9,9,4,1,7,2,Salary
+Female,20,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Public Affairs,7,6,5,5,5,4,Salary
+Female,23,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,8,10,10,5,7,8,Employment rate
+Male,20,Enrolled,Master,Parents,,,No,Unmarried,Yes,Engineering,8,7,8,1,4,1,Self- interest
+Female,22,Not enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Business,5,3,4,3,3,5,Self- interest
+Male,20,Enrolled,Master,Parents,,,Yes,Unmarried,No,Others,7,10,5,0,10,0,Expectation of parents
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Engineering,6,7,7,5,4,6,Self- interest
+Male,19,Not enrolled,Master,Parents,,,Yes,Unmarried,No,Engineering,10,10,5,5,10,5,Expectation of parents
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Engineering,10,10,10,10,10,10,Salary
+Male,20,Enrolled,Master,Parents,,,Yes,Unmarried,Yes,Engineering,7,8,8,3,7,3,Self- interest
+Male,22,Enrolled,PHD,Parents,,,No,Unmarried,No,Humanities,3,5,10,3,3,6,Self- interest
+Female,23,Graduated,Bachelor,Parents,,,Yes,Unmarried,No,Business,8,9,7,5,2,0,Self- interest
+Female,23,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Others,5,5,8,4,3,3,Self- interest
+Female,21,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Medical Health,10,10,10,0,5,0,Employment rate
+Male,20,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Business,10,10,10,6,5,3,Self- interest
+Male,20,Not enrolled,Master,Parents,,,No,Unmarried,No,Art,5,6,10,0,5,5,Self- interest
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Others,5,5,10,8,7,7,Self- interest
+Male,24,Enrolled,Master,Parents,,,Yes,Unmarried,Yes,Engineering,10,10,6,5,5,7,Salary
+Male,21,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Business,7,7,9,5,5,5,Salary
+Female,21,Enrolled,Master,Parents,,,No,Unmarried,No,Law,9,7,8,6,6,5,Salary
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Business,8,7,8,9,8,8,The advice from friends
+Female,24,Enrolled,Master,,,Personal,Yes,Divorced,Yes,Art,7,5,9,3,6,3,Salary
+Male,26,Graduated,PHD,,,Personal,Yes,Unmarried,Yes,Computer Science,8,8,10,7,6,6,Self- interest
+Male,25,Enrolled,Master,Parents,,,No,Married,No,Business,10,10,6,0,5,4,Salary
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Public Affairs,7,8,8,3,4,0,Employment rate
+Female,21,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Business,8,8,9,8,5,7,Self- interest
+Male,23,Enrolled,Master,Parents,,Personal,Yes,Unmarried,Yes,Business,7,9,9,9,8,9,Self- interest
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Business,10,10,10,10,10,10,Salary
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Others,5,5,10,7,4,0,Self- interest
+Female,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Business,3,2,5,2,3,1,Self- interest
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Others,10,10,10,10,10,10,Self- interest
+Female,20,Enrolled,Master,Parents,Government or Corporation,Personal,Yes,Unmarried,No,Medical Health,8,8,8,1,5,2,Self- interest
+Female,21,Enrolled,Bachelor,Parents,,Personal,No,Unmarried,No,Business,8,8,7,8,9,6,Salary
+Male,19,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Business,9,9,7,7,9,8,Salary
+Male,21,Graduated,Bachelor,Parents,,,No,Unmarried,No,Business,10,8,10,3,9,4,Salary
+Female,20,Enrolled,Master,Parents,,,Yes,Unmarried,Yes,Business,8,6,8,7,7,7,The advice from friends
+Female,20,Enrolled,Master,,,Personal,Yes,Unmarried,No,Others,6,10,10,5,8,7,Self- interest
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Others,7,7,9,5,5,6,Self- interest
+Male,19,Enrolled,Master,Parents,,,No,Unmarried,Yes,Business,8,8,7,5,7,3,Salary
+Female,20,Enrolled,Master,Parents,,,Yes,Unmarried,Yes,Others,7,7,8,7,5,5,Salary
+Female,20,Not enrolled,Master,Parents,,,Yes,Unmarried,Yes,Business,8,8,10,0,0,0,Self- interest
+Female,20,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Business,5,5,6,5,6,6,Self- interest
+Male,20,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Business,10,9,8,10,10,7,Employment rate
+Male,19,Enrolled,Master,Parents,,,Yes,Divorced,No,Engineering,9,2,6,1,4,4,Salary
+Female,11,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Art,4,10,10,0,10,10,Employment rate
+Male,23,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Others,8,3,9,7,3,3,Self- interest
+Female,21,Enrolled,Master,Parents,,,Yes,Unmarried,Yes,Others,9,10,4,5,5,6,Employment rate
+Female,22,Enrolled,Bachelor,Parents,,,Yes,Unmarried,Yes,Computer Science,8,8,10,8,6,6,Self- interest
+Female,24,Enrolled,Master,Parents,,,No,Unmarried,Yes,Education,8,9,8,8,9,8,Employment rate
+Female,24,Enrolled,Master,Parents,,,Yes,Unmarried,No,Humanities,7,7,10,9,10,8,Self- interest
+Female,20,Graduated,Bachelor,Parents,,,Yes,Unmarried,No,Others,5,5,5,5,5,5,Salary
+Female,23,Enrolled,Master,Parents,,,Yes,Unmarried,Yes,Business,9,9,5,1,9,5,Salary
+Male,25,Enrolled,Master,Parents,,,No,Unmarried,No,Business,7,8,7,6,6,4,Salary
+Male,21,Enrolled,Master,Parents,,Personal,Yes,Unmarried,No,Business,10,9,8,8,9,6,Salary
+Female,24,Enrolled,Master,Parents,,,No,Unmarried,No,Business,5,9,9,1,5,1,Salary
+Female,23,Graduated,Master,Parents,,,Yes,Unmarried,Yes,Business,10,8,8,3,4,3,Salary
+Male,24,Not enrolled,Master,Parents,,,Yes,Unmarried,No,Others,8,8,10,2,3,0,Self- interest
+Male,24,Graduated,Master,Parents,,,No,Unmarried,No,Engineering,10,10,10,10,10,10,Employment rate
+Female,16,Enrolled,Master,Parents,,Personal,No,Unmarried,No,Business,8,8,10,8,0,0,Self- interest
+Female,23,Enrolled,Bachelor,Parents,,,Yes,Unmarried,No,Business,5,5,5,5,5,5,Salary
+Female,25,Graduated,Bachelor,Parents,,Personal,No,Unmarried,No,Art,10,8,8,8,9,7,Salary
+Male,25,Graduated,Master,Parents,,,Yes,Unmarried,No,Business,7,7,3,4,6,3,Salary
+Male,25,Graduated,Bachelor,Parents,,,No,Unmarried,No,Business,5,5,5,5,5,5,Salary
+Male,25,Not enrolled,Master,Parents,,,Yes,Unmarried,No,Business,10,10,7,7,7,7,Salary
+Male,24,Graduated,Master,,Government or Corporation,,No,Unmarried,No,Business,6,7,7,7,5,3,Salary
+Female,24,Graduated,Bachelor,Parents,,,Yes,Unmarried,No,Art,8,9,10,6,7,7,Self- interest
+Female,25,Graduated,Master,Parents,,,Yes,Unmarried,Yes,Business,10,10,8,4,4,4,Salary
+Female,23,Graduated,Master,Parents,,,No,Unmarried,Yes,Others,5,5,8,0,5,8,Self- interest
+Male,25,Graduated,PHD,Parents,,,Yes,Unmarried,Yes,Art,8,5,10,6,6,5,Self- interest
+Male,24,Enrolled,Master,Parents,,Personal,Yes,Unmarried,No,Art,7,7,10,0,2,5,Self- interest
+Female,28,Graduated,Master,,,Personal,Yes,Unmarried,No,Education,8,8,8,7,3,2,Self- interest
+Male,25,Graduated,Master,Parents,,,Yes,Unmarried,No,Business,10,10,10,10,10,10,Salary
+Female,23,Graduated,Master,,,Personal,Yes,Unmarried,No,Business,8,6,7,4,5,3,Salary
+Female,24,Graduated,PHD,,,Personal,No,Unmarried,No,Humanities,6,6,9,6,3,5,Self- interest
+Male,24,Enrolled,Master,Parents,,,No,Unmarried,No,Public Affairs,9,10,6,6,7,3,Salary
+Female,25,Graduated,Bachelor,,,Personal,No,Unmarried,No,Others,8,6,8,6,1,1,Self- interest
+Female,24,Graduated,Bachelor,Parents,,Personal,No,Unmarried,No,Business,7,7,6,8,8,9,Salary
+Male,24,Graduated,Bachelor,,,Personal,No,Unmarried,No,Engineering,8,7,6,7,7,6,Salary
+Male,26,Graduated,Master,Parents,,,Yes,Unmarried,No,Business,10,10,10,10,10,10,Salary
+Female,24,Graduated,PHD,Parents,,,Yes,Unmarried,No,Art,10,10,8,5,5,6,Salary
+Female,24,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,8,8,6,6,6,4,Salary
+Male,25,Graduated,Master,Parents,,,Yes,Unmarried,No,Business,5,0,10,0,0,8,Self- interest
+Female,24,Enrolled,Master,Parents,,,Yes,Unmarried,No,Humanities,7,6,5,5,6,8,Self- interest
+Female,24,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,10,10,10,5,5,5,Salary
+Male,24,Enrolled,PHD,,Government or Corporation,,Yes,Unmarried,No,Business,10,9,7,5,4,9,Salary
+Female,21,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Business,8,8,8,8,8,7,Salary
+Female,27,Graduated,PHD,Parents,Government or Corporation,,Yes,Unmarried,No,Education,8,7,8,6,7,7,Self- interest
+Female,23,Graduated,Master,Parents,,,Yes,Unmarried,Yes,Education,5,5,8,4,0,0,Self- interest
+Female,24,Enrolled,Master,Parents,,,Yes,Unmarried,No,Business,6,8,10,8,6,6,Self- interest
+Female,20,Enrolled,Bachelor,Parents,,,No,Unmarried,No,Others,0,1,10,0,1,2,Self- interest
+Female,33,Graduated,Master,Parents,,Personal,No,Married,Yes,Law,9,8,8,3,3,5,Salary

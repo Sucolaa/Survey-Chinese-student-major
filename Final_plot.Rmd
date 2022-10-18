@@ -1,0 +1,147 @@
+---
+title: "final_plot"
+author: "Su Xu"
+date: "11/27/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+project <- read.csv("./data/data_original.csv", header = T)
+library(tidyverse)
+```
+
+
+## 1. Gender
+```{r}
+ggplot(data = project,
+       aes(x = Gender, fill = Gender)) +
+  geom_bar() +
+  geom_text(
+    aes(label = stat(count)),
+    stat = "count",
+    nudge_y = 2
+  ) +
+  theme_bw()+
+  ggtitle("Gender") +
+  theme(plot.title = element_text(hjust = 0.5))
+```
+
+2. Age
+
+```{r}
+ggplot(data = project,
+       aes(x = as.factor(Age))) +
+  geom_bar(color = "black",
+           fill = "black") +
+  geom_text(
+    aes(label = stat(count)),
+    stat = "count",
+    nudge_y = 2
+  )+
+  theme_bw() +
+  ggtitle("Age Distribution") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  xlab("Age")
+```
+
+## 3. Current statue
+```{r}
+ggplot(data = project,
+       aes(x = Status,
+           fill = Status)) +
+  geom_bar() +
+  geom_text(
+    aes(label = stat(count)),
+    stat = "count",
+    nudge_y = 3
+  )+
+  theme_bw() +
+  ggtitle("Current Statue") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  xlab("Statue")
+```
+
+## 4. Study abroad
+
+```{r}
+ggplot(project,
+       aes(x = Studied_abroad, fill = Studied_abroad))+
+  geom_bar() +
+  geom_text(
+    aes(label = stat(count)),
+    stat = "count",
+    nudge_y = 2
+  ) +
+  theme_bw() +
+  ggtitle("Have you ever studied abroad?") +
+  theme(plot.title = element_text(hjust = 0.5))+
+  xlab("Studied abroad")
+```
+
+##5. Marital Status
+```{r}
+ggplot(project,
+       aes(x = Marital_status, fill = Marital_status))+
+  geom_bar() +
+  geom_text(
+    aes(label = stat(count)),
+    stat = "count",
+    nudge_y = 2
+  ) +
+  theme_bw() +
+  ggtitle("Marital Status") +
+  theme(plot.title = element_text(hjust = 0.5))+
+  xlab("Marital Status")
+```
+
+## 6. Major choice
+
+```{r}
+project %>% 
+  group_by(Major) %>% 
+  mutate(count_major = n()) ->project3
+  ggplot(data = project3,
+        aes(y = reorder(Major, count_major)))+
+  geom_bar(stat = "count",
+           fill = "black") +
+  geom_text(
+    aes(label = stat(count)),
+    stat = "count",
+    nudge_x = 1.4
+  )+
+  theme_bw() +
+  ggtitle("Major choice") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  ylab("Majors")
+```
+
+```{r}
+ggplot(data = project,
+       aes(x = as.factor(Age),
+           fill = Marital_status)) +
+  geom_bar() +
+  xlab("Age") +
+  scale_fill_discrete(name = "Marital Status") +
+  theme_bw()
+```
+
+```{r}
+project %>% 
+  filter(Marital_status == "Divorced") %>% 
+  select(Gender, Age, Marital_status)
+```
+
+```{r}
+ggplot(data = project,
+       aes(x = Factor_EmploymentRate)) +
+  geom_bar()
+```
+
+```{r}
+lm(as.factor(Major) ~ as.factor(Factor_Salary) + as.factor(Factor_EmploymentRate), data = project)
+```
+

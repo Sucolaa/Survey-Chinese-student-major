@@ -1,0 +1,90 @@
+---
+title: "Survey_sampling_project"
+author: "Su Xu"
+date: "11/8/2020"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r}
+project <- read.csv("./data/data_original.csv", header = T)
+library(tidyverse)
+```
+
+```{r}
+project %>% 
+  count(Studied_abroad) %>% 
+  mutate(perc = n/nrow(project)) ->project2
+```
+
+```{r}
+ggplot(project,
+       aes(x = Studied_abroad, fill = Studied_abroad))+
+  geom_bar() +
+  geom_text(
+    aes(label = stat(count)),
+    stat = "count",
+    nudge_y = 2
+  ) +
+  ggtitle("Have you ever studied abroad?") +
+  theme(plot.title = element_text(hjust = 0.5))+
+  xlab("Studied abroad") +
+  theme_bw()
+```
+
+```{r}
+plot(project$Age, ylab = "Age")
+```
+
+```{r}
+ggplot(data = project,
+       aes(x = Gender, fill = Gender)) +
+  geom_bar() +
+  geom_text(
+    aes(label = stat(count)),
+    stat = "count",
+    nudge_y = 2
+  ) +
+  theme_bw()+
+  ggtitle("Gender") +
+  theme(plot.title = element_text(hjust = 0.5))
+```
+
+```{r}
+ggplot(data = project,
+       aes(x = as.factor(Age))) +
+  geom_bar(color = "black",
+           fill = "black") +
+  geom_text(
+    aes(label = stat(count)),
+    stat = "count",
+    nudge_y = 2
+  )+
+  theme_bw() +
+  ggtitle("Age Distribution") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  xlab("Age")
+```
+
+```{r}
+project %>% 
+  group_by(Major) %>% 
+  mutate(count_major = n()) %>% 
+  ggplot(
+        aes(y = reorder(Major, count_major)))+
+  geom_bar(stat = "count",
+           fill = "black") +
+  geom_text(
+    aes(label = stat(count)),
+    stat = "count",
+    nudge_x = 1.4
+  )+
+  theme_bw() +
+  ggtitle("Major choice") +
+  theme(plot.title = element_text(hjust = 0.5)) +
+  ylab("Majors")
+```
+

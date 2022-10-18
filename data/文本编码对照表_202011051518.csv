@@ -1,0 +1,54 @@
+Q1,Your gender :,单选题
+,本题选项:,
+,1,Male
+,2,Female
+Q2,Your age:,单选题
+,本题选项:,
+,1,16-20
+,2,20-25
+,3,Over 25
+Q3,Your current statue:,单选题
+,本题选项:,
+,1,Enrolled
+,2,Not enrolled
+,3,Graduated
+Q4,Your target degree:,单选题
+,本题选项:,
+,1,Bachelor
+,2,Master
+,3,PHD
+Q5,Who is your sponsor? (multiple choice),多选题
+,本题选项:,
+,1,Parents
+,2,Government or Corporation
+,3,Personal
+Q6,Have you ever studied abroad?,单选题
+,本题选项:,
+,1,Yes
+,2,No
+Q7,Marital status:,单选题
+,本题选项:,
+,1,Married
+,2,Unmarried
+,3,Divorced
+Q8,Do you plan to find a job in the United States after graduation?,单选题
+,本题选项:,
+,1,Yes
+,2,No
+Q9,What major do you want to study:,填空题
+,本题选项:,
+,1,选项1
+Q10,"Which of the following factors do you think influenced you choice a major? Grade your choice. (0 means no impact, 10 means very important)",矩阵量表题
+,本题选项:,
+,1,Salary
+,2,Employment rate
+,3,Self-interest
+,4,Composition of students nationality
+,5,Expectation of parents
+,6,The advice from friends
+Q11,How are you today :-),图片选择题
+,本题选项:,
+,1,A
+,2,B
+,3,C
+,4,D
